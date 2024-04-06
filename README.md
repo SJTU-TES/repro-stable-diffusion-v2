@@ -28,7 +28,7 @@ pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --e
 
 ### 2.1 Download Pre-trained Files
 
-Download Latte's pre-trained files [here](https://huggingface.co/stabilityai/stable-diffusion-2).
+Download Stable Diffusion v2's pre-trained files [here](https://huggingface.co/stabilityai/stable-diffusion-2).
 
 ### 2.2 Just try it!
 
