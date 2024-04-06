@@ -1,0 +1,6 @@
+**/__pycache__/**
+pretrained/text_encoder/pytorch_model.bin
+pretrained/text_encoder/pytorch_model.fp16.bin
+pretrained/768-v-ema.ckpt
+pretrained/tokenizer/vocab.json
+pretrained/unet/diffusion_pytorch_model.bin

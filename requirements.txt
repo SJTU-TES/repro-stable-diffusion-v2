@@ -1,4 +1,0 @@
-diffusers==0.16.0
-Pillow==10.3.0
-Requests==2.31.0
-torch==1.13.0+cu117
